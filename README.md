@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-
-**Saud-Ahmed-Chachar/Saud-Ahmed-Chachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Saud Ahmed here
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
