@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/](https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/)
 
-- 💬 Ask me about **React , Database Management Design ,UX/UI design Ux/U**
+- 💬 Ask me about **React , Database Management Design ,UX/UI design**
 
 - 📫 How to reach me **http://saud-ahmed.com/**
 
