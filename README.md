@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **My Portfolio**
 
-- 👨‍💻 All of my projects are available at [https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/](https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **React , Database Management Design ,UX/UI design**
 
-- 📫 How to reach me **http://saud-ahmed.com/**
+- 📫 How to reach me **[https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/](https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
