@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React , Database Management Design ,UX/UI design**
 
-- 📫 How to reach me **[https://saud-ahmed-chachar.github.io/SaudAhmed.github.io/](https://personal-portfolio-alpha-snowy-21.vercel.app/)**
+- 📫 How to reach me **[My Portfolio: ](https://personal-portfolio-alpha-snowy-21.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
